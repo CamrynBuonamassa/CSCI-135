@@ -1,2 +1,2 @@
 # Camryn Buonamassa
-A simple calculator, a pronounciation analysis program, and a solution to the Knight's Tour problem. Pronounce.cpp needs the in file cmudict.0.7a.txt. Calc3.cpp needs an input file, such as formula.txt, to run.
+This is a pronounciation analysis program that utilizes a word's phonemes to compare it to those of other words.
